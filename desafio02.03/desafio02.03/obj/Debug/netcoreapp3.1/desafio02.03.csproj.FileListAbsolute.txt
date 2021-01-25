@@ -1,0 +1,13 @@
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.csprojAssemblyReference.cache
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\bin\Debug\netcoreapp3.1\desafio02.03.exe
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\bin\Debug\netcoreapp3.1\desafio02.03.deps.json
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\bin\Debug\netcoreapp3.1\desafio02.03.runtimeconfig.json
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\bin\Debug\netcoreapp3.1\desafio02.03.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\bin\Debug\netcoreapp3.1\desafio02.03.dll
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\bin\Debug\netcoreapp3.1\desafio02.03.pdb
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.dll
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.pdb
+D:\Users\User\Documents\tutoria\desafio02.03\desafio02.03\obj\Debug\netcoreapp3.1\desafio02.03.genruntimeconfig.cache
